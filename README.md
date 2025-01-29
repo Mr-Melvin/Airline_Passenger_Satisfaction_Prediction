@@ -19,5 +19,6 @@ The model is deployed using Streamlit, a Python framework, to develop a user-fri
 
 ### Step 3: Prediction Output.
 
-<img width="1496" alt="4" src="https://github.com/user-attachments/assets/27213a95-1381-41fa-96e7-43136d8371e3" />
+<img width="1496" alt="4" src="https://github.com/user-attachments/assets/b4c12070-499d-46db-ab4c-5afd3d4cbae6" />
+
 
