@@ -5,7 +5,7 @@ The model is deployed using Streamlit, a Python framework, to develop a user-fri
 # How it works 
 ### Step 1: Homepage.
 
-<img width="1496" alt="1" src="https://github.com/user-attachments/assets/6695e155-78f9-4290-bea1-de95d730b3d4" />
+<img width="1496" alt="1" src="https://github.com/user-attachments/assets/faabd7c1-66f8-4879-911d-c491f075df48" />
 
 
 ### Step 2: Collecting datas from the user.
